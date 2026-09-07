@@ -1,0 +1,4 @@
+node_modules/
+.netlify/
+agent-tools/
+.DS_Store
