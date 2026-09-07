@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ascii-magic",
+  "version": "0.1.0",
+  "description": "Build and parse ASCII Magic editor recipes (full settings + post-FX) and return https://www.ascii-magic.com/app?r= deep links. Does not render images server-side.",
+  "author": {
+    "name": "Shawn Yeager"
+  },
+  "homepage": "https://www.ascii-magic.com",
+  "license": "MIT",
+  "keywords": [
+    "ascii-magic",
+    "recipe",
+    "dither",
+    "deep-link",
+    "mcp",
+    "post-fx"
+  ]
+}
